@@ -1,0 +1,38 @@
+<!DOCTYPE HTML>
+  <html>
+   <head>
+     <link href="css/style.css" rel="stylesheet" type="text/css" media="all">
+     <title> My favorite places </title>
+  </head>
+
+  <body>
+
+    <h1> My Favorite Places </h1>
+    <h2>Below are lists of my favorite places:</h2>
+
+    <h3>Favorite places in Portland</h3>
+      <ul>
+          <li> Epicodus </li>
+          <li> Tea Chai Te</li>
+          <li> Powell's</li>
+          <li> Oregon Zoo </li>
+      </ul>
+
+    <h3>Favorite places in the U.S.</h3>
+      <ul>
+          <li>Sedona, AZ</li>
+          <li>Big Sur, CA</li>
+          <li>Austin, TX</li>
+          <li>New York, NY</li>
+      </ul>
+
+    <h3>Favorite places in the world</h3>
+      <ul>
+        <li>Lisbon, Portugal</li>
+        <li>Helsinki, Finland</li>
+        <li>Amsterdam, Netherlands</li>
+        <li>Rome, Italy</li>
+      </ul>
+  </body>
+
+  </html>

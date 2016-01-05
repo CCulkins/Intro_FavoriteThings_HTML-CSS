@@ -1,0 +1,27 @@
+h1 {
+color: red;
+}
+
+h1 {
+  text-align: center;
+}
+
+h3 {
+  font-style: italic;
+}
+
+h1 {
+  font-weight: bolder;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+p {
+  font-size: 10px;
+}
+
+ul li {
+  line-height: inherit;
+}

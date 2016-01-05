@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+  <html>
+    <head><title>Ella the Cat</title> </head>
+
+      <body>
+      <h1>Ella the Cat</h1>
+      <h2>This is a website about my cat, Ella.</h2>
+      <h3>
+        <p> Ella is a fat, black Bombay cat. She likes tuna and cuddles. </p>
+        <p> Here is a picture of Ella:</p>
+          <img src="black-cat.jpg">
+
+    </body>

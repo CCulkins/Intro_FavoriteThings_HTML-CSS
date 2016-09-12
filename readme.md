@@ -24,6 +24,7 @@ _If there are any questions, ideas or concerns, feel free to contact Cassandra C
 ## Technologies Used
 
 _HTML was used to write this webpage._
+_CSS was used to style the page.
 
 ### License
 
